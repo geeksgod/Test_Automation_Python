@@ -29,10 +29,11 @@ def drop_down_selector(drop_down_locator, menu_class_locator, value):
         if item.text.lower() == value.lower():
             item.click()
             break
-
-
+driver.save_screenshot('/Reports')
+driver.find_element_by_xpath('//span[@class="msg-error"]').is_displayed()
 drop_down_selector('#select2-complainant_type-container', ".select2-results__option", "self")
 driver.find_element_by_css_selector("#js-next-btn").click()
 driver.find_element_by_css_selector('#descImgDrop').send_keys("/home/geeksgod/Downloads/1856736.jpg")
 time.sleep(5)
 driver.close()
+"test".

@@ -1,0 +1,35 @@
+05/18/2021 02:19:03 PM: INFO: logging test
+05/18/2021 02:20:17 PM: INFO: logging test
+05/18/2021 02:21:09 PM: INFO: logging test
+05/18/2021 02:23:04 PM: INFO: logging test
+05/18/2021 02:24:03 PM: INFO: logging test
+05/18/2021 02:24:50 PM: INFO: logging test
+05/18/2021 02:56:55 PM: INFO: logging test
+05/18/2021 03:04:58 PM: INFO: logging test
+05/18/2021 03:06:16 PM: INFO: logging test
+05/18/2021 03:07:31 PM: INFO: logging test
+05/18/2021 03:26:15 PM: INFO: logging test
+05/18/2021 03:30:23 PM: INFO: logging test
+05/18/2021 03:31:49 PM: INFO: logging test
+05/18/2021 03:33:15 PM: INFO: logging test
+05/18/2021 03:34:42 PM: INFO: logging test
+05/18/2021 03:38:29 PM: INFO: logging test
+05/18/2021 03:39:09 PM: INFO: logging test
+05/18/2021 03:40:21 PM: INFO: logging test
+05/18/2021 03:41:16 PM: INFO: logging test
+05/18/2021 03:43:34 PM: INFO: logging test
+05/18/2021 03:48:27 PM: INFO: logging test
+05/18/2021 03:56:10 PM: INFO: logging test with correct info
+05/18/2021 03:58:27 PM: INFO: logging test with correct info
+05/18/2021 03:59:58 PM: INFO: logging test with correct info
+05/18/2021 04:00:24 PM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/18/2021 04:00:24 PM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/18/2021 04:00:34 PM: INFO: incorrect email faile due to errorयो ईमेल हाम्रो रेकर्डसँग मेल खाँदैन ।
+05/18/2021 04:05:54 PM: INFO: logging test with correct info
+05/18/2021 04:06:18 PM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/18/2021 04:06:18 PM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/18/2021 04:06:26 PM: INFO: incorrect email faile due to errorयो ईमेल हाम्रो रेकर्डसँग मेल खाँदैन ।
+05/18/2021 04:08:53 PM: INFO: logging test with correct info
+05/18/2021 04:09:18 PM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/18/2021 04:09:19 PM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/18/2021 04:09:26 PM: INFO: incorrect email faile due to errorयो ईमेल हाम्रो रेकर्डसँग मेल खाँदैन ।
