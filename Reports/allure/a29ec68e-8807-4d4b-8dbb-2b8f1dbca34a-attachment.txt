@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_login.py:26 logging test with correct info

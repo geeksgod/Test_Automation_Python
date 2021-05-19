@@ -101,8 +101,5 @@ class Test0001:
             allure.attach(self.driver.get_screenshot_as_png(), name="test information creation",
                           attachment_type=AttachmentType.PNG)
             assert True
-
-
-
         self.driver.close()
         print(username, password)
