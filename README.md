@@ -13,7 +13,12 @@ which are all python library and additonally I have used
 # Enviroment Setup without creating venv  
 
 ```console
-$ pip install -r req.txt
-
+pip install -r req.txt
 ```  
 this will install all the require python libraries
+
+```console
+sudo apt-get update -y && sudo apt-get install -y allure
+
+```  
+this will install allure report (I use ubuntu)
