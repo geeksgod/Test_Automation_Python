@@ -3,6 +3,7 @@ This is the simple automation script for UAHEP project to test the login module.
 ## Pre-requisites
 * python 2.7.18 installed
 * allure 2.13.9 :to generate detailed html reports
+* Chrome or Mozilla installed 
 ## Libraries used
 * Selenium: to automate browser  
 * pytest: to manage testcases  
