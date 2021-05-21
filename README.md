@@ -1,4 +1,4 @@
-# Automationsetup (Page Object Mode)
+# Automationsetup (Page Object Model framework) 
 This is the simple automation script for UAHEP project to test the login module.
 ## Pre-requisites
 * python 2.7.18 installed
