@@ -26,3 +26,33 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1621572693716	Marionette	INFO	Stopped listening on port 44923
 1621572696171	Marionette	INFO	Stopped listening on port 44609
 1621572700727	Marionette	INFO	Stopped listening on port 37349
+1621573805476	geckodriver	INFO	Listening on 127.0.0.1:35709
+1621573805476	geckodriver	INFO	Listening on 127.0.0.1:34143
+1621573805476	geckodriver	INFO	Listening on 127.0.0.1:48179
+1621573805478	geckodriver	INFO	Listening on 127.0.0.1:54841
+1621573805483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledghZMD"
+1621573805483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16QFrY"
+1621573805484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FTyAl"
+1621573805485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuHn2tt"
+1621573805974	Marionette	INFO	Marionette enabled
+1621573805984	Marionette	INFO	Marionette enabled
+1621573805988	Marionette	INFO	Marionette enabled
+1621573805990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621573808025	Marionette	INFO	Listening on port 35543
+1621573808102	Marionette	INFO	Listening on port 45583
+1621573808118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621573808227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621573808233	Marionette	INFO	Listening on port 35251
+1621573808246	Marionette	INFO	Listening on port 42915
+1621573808326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621573808401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621573820721	Marionette	INFO	Stopped listening on port 42915
+1621573820934	Marionette	INFO	Stopped listening on port 45583
+1621573820975	Marionette	INFO	Stopped listening on port 35543
+1621573825036	Marionette	INFO	Stopped listening on port 35251
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment

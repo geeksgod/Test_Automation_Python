@@ -36,4 +36,3 @@ driver.find_element_by_css_selector("#js-next-btn").click()
 driver.find_element_by_css_selector('#descImgDrop').send_keys("/home/geeksgod/Downloads/1856736.jpg")
 time.sleep(5)
 driver.close()
-"test".

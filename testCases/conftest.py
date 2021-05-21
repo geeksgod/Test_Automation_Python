@@ -10,7 +10,10 @@ def setup(browser):
         print("test")
         driver = webdriver.Firefox(executable_path="./drivers/geckodriver")
     else:
-        driver = webdriver.Chrome(executable_path="./drivers/chromedriver")
+        try:
+            driver = webdriver.Chrome(executable_path="./drivers/chromedriver")
+        except:
+            driver = webdriver.Firefox(executable_path="./drivers/geckodriver")
     return driver
 
 

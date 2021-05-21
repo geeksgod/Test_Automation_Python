@@ -74,3 +74,7 @@
 05/21/2021 10:36:33 AM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
 05/21/2021 10:36:33 AM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
 05/21/2021 10:36:36 AM: INFO: incorrect email faile due to errorयो ईमेल हाम्रो रेकर्डसँग मेल खाँदैन ।
+05/21/2021 10:55:08 AM: INFO: logging test with correct info
+05/21/2021 10:55:20 AM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/21/2021 10:55:20 AM: INFO: test_blank faile due to errorयो फिल्ड आवश्यक छ ।
+05/21/2021 10:55:20 AM: INFO: incorrect email faile due to errorयो ईमेल हाम्रो रेकर्डसँग मेल खाँदैन ।
