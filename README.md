@@ -15,10 +15,17 @@ which are all python library and additonally I have used
 ```console
 pip install -r req.txt
 ```  
-this will install all the require python libraries
+this will install all the required python libraries
 
 ```console
 sudo apt-get update -y && sudo apt-get install -y allure
 
 ```  
-this will install allure report (I use ubuntu)
+this will install allure report (I use ubuntu)  
+
+# Running the automation script
+Make sure the you are in project directory.then run 
+* ## Normal execution  
+```console
+pytest -s -v ./testcases/login_py
+``` 
