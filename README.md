@@ -52,7 +52,7 @@ pytest -s -v -n=2  ./testcases/login_py --html=./Reports/demo.html --alluredir=.
 ``` 
 we provide the number to instances to browser we want to use to the -n argument 
 
-# processing the allure reports
+# Processing the allure reports
 ```console
 sudo allure serve {path to folder provided to --alluredir argument previously}
 ``` 
