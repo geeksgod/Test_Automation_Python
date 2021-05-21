@@ -50,7 +50,7 @@ we provide the location where we want the allure reports to be generate to --all
 ```console
 pytest -s -v -n=2  ./testcases/login_py --html=./Reports/demo.html --alluredir=./Reports/allure
 ``` 
-we provide the number to instances to browser we want to use to the -n argument 
+we provide the number of instances of browser we want to use to the -n argument 
 
 # Processing the allure reports
 ```console
