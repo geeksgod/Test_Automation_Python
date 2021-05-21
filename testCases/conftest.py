@@ -5,11 +5,12 @@ import pytest
 @pytest.fixture()
 def setup(browser):
     if browser == 'chrome':
-        driver = webdriver.Chrome(executable_path="/home/bipin/Downloads/chromedriver_linux64/chromedriver")
+        driver = webdriver.Chrome(executable_path="./drivers/chromedriver")
     elif browser == 'firefox':
-        driver = webdriver.Firefox()
+        print("test")
+        driver = webdriver.Firefox(executable_path="./drivers/geckodriver")
     else:
-        driver = webdriver.Chrome(executable_path="/home/bipin/Downloads/chromedriver_linux64/chromedriver")
+        driver = webdriver.Chrome(executable_path="./drivers/chromedriver")
     return driver
 
 

@@ -1,0 +1,28 @@
+1621572682176	geckodriver	INFO	Listening on 127.0.0.1:37709
+1621572682176	geckodriver	INFO	Listening on 127.0.0.1:56317
+1621572682176	geckodriver	INFO	Listening on 127.0.0.1:45425
+1621572682177	geckodriver	INFO	Listening on 127.0.0.1:57503
+1621572682182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHfic5G"
+1621572682182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledYwVpX"
+1621572682183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelbntAX"
+1621572682185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile53ma3c"
+1621572682778	Marionette	INFO	Marionette enabled
+1621572682778	Marionette	INFO	Marionette enabled
+1621572682778	Marionette	INFO	Marionette enabled
+1621572682778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621572685034	Marionette	INFO	Listening on port 44923
+1621572685113	Marionette	INFO	Listening on port 44609
+1621572685129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621572685157	Marionette	INFO	Listening on port 37349
+1621572685212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621572685231	Marionette	INFO	Listening on port 45141
+1621572685262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621572685321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621572693491	Marionette	INFO	Stopped listening on port 45141
+1621572693716	Marionette	INFO	Stopped listening on port 44923
+1621572696171	Marionette	INFO	Stopped listening on port 44609
+1621572700727	Marionette	INFO	Stopped listening on port 37349

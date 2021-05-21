@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_login.py:53 test_blank faile due to errorयो फिल्ड आवश्यक छ ।
-[32mINFO    [0m root:test_login.py:53 test_blank faile due to errorयो फिल्ड आवश्यक छ ।
