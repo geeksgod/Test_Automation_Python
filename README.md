@@ -50,7 +50,7 @@ Preferred directory location should be passed where allure reports are to be gen
 ```console
 pytest -s -v -n=2  ./testcases/login_py --html=./Reports/demo.html --alluredir=./Reports/allure
 ``` 
-we provide the number of instances of browser we want to use to the -n argument 
+Preferred number of instances of browser should be provided as argument to -n
 
 # Processing the allure reports
 ```console
