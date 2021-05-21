@@ -1,12 +1,15 @@
 # automationsetup
-This is the simple automation script for UAHEP project to test the login module.I have  
+This is the simple automation script for UAHEP project to test the login module.
+## Pre-requisites
+* python 2.7.18 installed
+## Libraries used
 * Selenium: to automate browser  
 * pytest: to manage testcases  
 * openpyxl: to read/write excelfiles  
 * pytest-html: to generate simple html report  
 * pytest-xdist: to execute testcases parallely  
 * pytest-allure: to integrate allure json files  
-which are all python library and additonally I have used
+additonally  
 * allure reports:to generate detailed html reports
 
 
@@ -29,9 +32,25 @@ Make sure the you are in project directory.then run
 ```console
 pytest -s -v ./testcases/login_py
 ``` 
-* ## Execution with generation of HTML report  
+* ## Normal execution with generation of HTML report  
 ```console
-pytest -s -v ./testcases/login_py --html=./Reports/demoi.html
+pytest -s -v ./testcases/login_py --html=./Reports/demo.html
 ``` 
 we provide the location where we want the reports to be generate to --html argument
 
+* ## Rnoraml execution with generation of allure and html report  
+```console
+pytest -s -v ./testcases/login_py --html=./Reports/demo.html --alluredir=./Reports/allure
+``` 
+we provide the location where we want the allure reports to be generate to --alluredir argument
+
+* ## parallel execution with generation of allure and html report  
+```console
+pytest -s -v -n=2  ./testcases/login_py --html=./Reports/demo.html --alluredir=./Reports/allure
+``` 
+we provide the number to instances to browser we want to use to the -n argument 
+
+# processing the allure reports
+```console
+sudo allure serve {location of folder provided to --alluredir argument previously}
+``` 
