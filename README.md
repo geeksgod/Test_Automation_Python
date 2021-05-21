@@ -38,13 +38,13 @@ pytest -s -v ./testcases/login_py
 ```console
 pytest -s -v ./testcases/login_py --html=./Reports/demo.html
 ``` 
-we provide the location where we want the reports to be generate to --html argument
+Preferred directory location should be passed where reports are to be generated as argument for  --html 
 
 * ## Normal execution with generation of allure and html report  
 ```console
 pytest -s -v ./testcases/login_py --html=./Reports/demo.html --alluredir=./Reports/allure
 ``` 
-we provide the location where we want the allure reports to be generate to --alluredir argument
+Preferred directory location should be passed where allure reports are to be generated as argument for  --alluredir
 
 * ## Parallel execution with generation of allure and html report  
 ```console
