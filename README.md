@@ -29,3 +29,9 @@ Make sure the you are in project directory.then run
 ```console
 pytest -s -v ./testcases/login_py
 ``` 
+* ## Execution with generation of HTML report  
+```console
+pytest -s -v ./testcases/login_py --html=./Reports/demoi.html
+``` 
+we provide the location where we want the reports to be generate to --html argument
+
