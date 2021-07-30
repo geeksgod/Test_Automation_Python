@@ -15,7 +15,9 @@ additonally
 
 
 
-# Enviroment Setup without creating venv  
+# Enviroment Setup 
+For setting up the virtual enviroment please follow the link
+https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/
 
 ```console
 pip install -r req.txt
@@ -30,6 +32,7 @@ this will install allure report (I use ubuntu)
 
 # Running the automation script
 Make sure the you are in project directory.then run 
+> add **python -m** command before following command if the following command dont work
 * ## Normal execution  
 ```console
 pytest -s -v ./testcases/login_py
